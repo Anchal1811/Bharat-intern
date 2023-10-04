@@ -39,7 +39,7 @@ You can explore the HTML, CSS, and JavaScript code in the repository to see how 
 
 ## Author
 
-- [Your Name](https://github.com/your-github-username)
+- [Anchal Tiwari](https://github.com/Anchal1811)
 
 ## License
 
